@@ -5,5 +5,10 @@ Using Bootstrap,portfolio site has been developped with the following items:
 A navbar
 A responsive layout
 Responsive images
-here are the screenshots
-!https://citenaresh.github.io/homework_number2/contact.html
+here are the screenshots:
+Contact Page
+!https://github.com/citenaresh/homework_number2/blob/main/assets/Images/Contact.png
+About Page
+!https://github.com/citenaresh/homework_number2/blob/main/assets/Images/About.png
+Portfolio Page
+!https://github.com/citenaresh/homework_number2/blob/main/assets/Images/Portfolio.png
